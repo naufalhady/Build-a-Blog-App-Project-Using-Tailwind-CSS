@@ -1,0 +1,6 @@
+@import "tailwindcss";
+/* The following @tailwind directives require TailwindCSS processing.
+   Remove them if you are not using Tailwind's build tools. */
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
